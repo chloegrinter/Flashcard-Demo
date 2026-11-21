@@ -19,6 +19,7 @@ A flashcard application built using **Godot 4** and **SQLite**.
 
 ## Installation
 ##Downloads
+
 Download the latest version from the
 [GitHub Releases page](https://github.com/chloegrinter/Flashcard-Demo/releases).
 
