@@ -1,0 +1,25 @@
+[Documentation Process for the Flashcard Game]
+I want to have an easily accessible way to store revision notes.
+Normally, people make flashcards, however I think there are some flaws to using them:
+	- You can Misplace them and all of your progress is gone
+	- They take up alot of space
+	- Its kinda easy to just flip over the card when you can't be bothered answering the question
+	
+Then, I realised i could use the philosophy of flashcards, but on a device that I'm always carrying around.
+Therefore, I won't misplace my revision technique, It doesn't take up space and I can program it to cover for laziness.
+
+[Project Outline]
+I want to be able to / Key Features:
+	- Write Questions and Answers, which are then stored to an SQLite Database
+	(I think SQLite is optimal here because I won't need to connect to a database server)
+	- Answer randomised questions based on what I've already written
+
+Desirable Features:
+	- Tracking How many Questions I got right / Wrong
+	- Tracking which Questions I get wrong most often for further revision
+	- Maybe linking craig n dave revision videos / classroom powerpoints for topics I struggle with.
+	
+21/11/26
+- I've started out by making the start of the main menu and programming functionality for all of the buttons.
+- I've actually got most of it done in around 2 hours, so I'm going to finish this off later today or tomorrow.
+- Need to Finish off the answer comparison thing
